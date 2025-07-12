@@ -1,5 +1,0 @@
-a=float(input())
-b=float(input())
-c=(a>=b)
-c=str(c)
-print("A >= B is "+c)
